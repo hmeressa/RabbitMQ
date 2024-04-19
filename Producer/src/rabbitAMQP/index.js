@@ -1,0 +1,1 @@
+module.exports.rabbitAMQPConnection = require('../rabbitAMQP')
